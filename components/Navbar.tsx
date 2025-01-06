@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { ThemeToggle } from './ThemeToggle'
+import { ThemeToggle } from './ModeToggle'
 import Link from 'next/link'
 import { Button } from './ui/button'
 
